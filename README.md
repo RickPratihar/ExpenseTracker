@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+This proj![Screenshot_20230910_075028](https://github.com/RickPratihar/ExpenseTracker/assets/103872207/271b0c3c-c28c-4df4-b37c-08d0224835ee)
+<h1>Preview Project : https://expense-tracker-rick.netlify.app/</h1>
+ect was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
